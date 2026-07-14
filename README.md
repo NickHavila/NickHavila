@@ -19,6 +19,7 @@
 - C Programming Exercises
 - Git Learning Exercises
 - Engineering toolkit
+- First python project (File organizer)
 
 ## Contact
 - Email: nickhavila@outlook.com
