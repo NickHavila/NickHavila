@@ -1,25 +1,134 @@
-# Hi, I'm Nicolas Cicolin de Havila
-##### Mechatronics Engineering student at PUC-PR (Pontifical Catholic University of Paraná), Brazil/BR
-##### Currently interested in programming, CAD design, automation, and engineering projects.
+<div align="center">
 
-## Currently Learning
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,35:0B1020,70:00F5FF,100:8A2BE2&text=SYSTEM%20INITIALIZED&fontColor=FFFFFF&fontSize=42&animation=fadeIn&fontAlignY=40&desc=NICOLAS%20CICOLIN%20DE%20HAVILA&descAlignY=60&descSize=18"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Booting+AI+Developer+Profile...;Mechatronics+Engineering+Student;Learning+C+%7C+Python+%7C+Automation;Future+Embedded+Systems+Developer;Welcome+to+my+GitHub."/>
+
+<br><br>
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTY0N2Y4YjQxYjA4OTNjOWQ4MTZmMjI4N2RhN2FmZmJiY2MwZmM4MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="35"> Profile
+
+```
+> INFORMATION
+
+Name............. Nicolas Cicolin de Havila
+Location......... Southern Brazil 🇧🇷
+University....... PUC-PR
+Course........... Mechatronics Engineering
+Status........... Learning Every Day
+Mission.......... Build useful engineering software
+```
+
+---
+
+# ⚡ Current Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode"/>
+
+</p>
+
 - C
 - Python
 - Git & GitHub
 - CAD (SolidWorks)
 - Automation
 
-## Goals
-- Improve my programming skills
-- Build engineering projects
-- Learn embedded systems
-- Contribute to open-source projects
+---
 
-## Projects
-- C Programming Exercises
-- Git Learning Exercises
-- Engineering toolkit
-- First python project (File organizer)
+# 🚀 Projects
 
-## Contact
-- Email: nickhavila@outlook.com
+| Project | Description |
+|----------|-------------|
+| Engineering Toolkit | Physics calculations made in C |
+| Python File Organizer | Automatically organizes files into folders |
+| C Programming Exercises | Logic, algorithms and data structures |
+| Git Learning Exercises | Git and GitHub practice |
+
+---
+
+# ⚙ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SolidWorks-CAD-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Learning-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Engineering-Mechatronics-8A2BE2?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+```text
+[✓] Learn C
+[✓] Learn Python
+[ ] Master Data Structures
+[ ] Learn Embedded Systems
+[ ] Learn Microcontrollers
+[ ] Build Real Automation Projects
+[ ] Contribute to Open Source
+```
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:050816,40:00F7FF,100:8A2BE2"/>
+
+### Thanks for visiting.
+
+*"Every expert was once a beginner who refused to quit."*
+
+</div>
+````
