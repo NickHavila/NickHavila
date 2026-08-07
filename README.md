@@ -27,7 +27,7 @@ Mission.......... Build useful engineering software
 
 ---
 
-# ⚡ Current Learning
+# Current Learning
 
 <p align="center">
 
@@ -43,7 +43,7 @@ Mission.......... Build useful engineering software
 
 ---
 
-# 🚀 Projects
+# Projects
 
 | Project | Description |
 |----------|-------------|
@@ -54,11 +54,11 @@ Mission.......... Build useful engineering software
 
 ---
 
-# ⚙ Tech Stack
+# Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=c,python,git,github,vscode"/>
 
 <br><br>
 
@@ -70,27 +70,25 @@ Mission.......... Build useful engineering software
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics 
+<div align="center"> 
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NickHavila&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&icon_color=8A2BE2&text_color=FFFFFF"/> 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickHavila&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=FFFFFF"/> 
+
+</div> 
+
+<br> 
 
 <div align="center">
+  
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=050816&ring=00F7FF&fire=8A2BE2&currStreakLabel=00F7FF"/> 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+</div> 
 
 ---
 
-# 🎯 Current Goals
+# Current Goals
 
 ```text
 [✓] Learn C
@@ -104,12 +102,16 @@ Mission.......... Build useful engineering software
 
 ---
 
-# 🌐 Connect with Me
+# Connect with Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NickHavila">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:nickhavila@outlook.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
 
 </div>
